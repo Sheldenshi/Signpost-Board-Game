@@ -3,8 +3,10 @@ A board game that shows different arrows that you need to connect them in order 
 
 This is a project that I completed for a UC Berkeley course CS61B: Data Structure. 
 
+
 ## Concepts: Object-Oriented Programming, State management
- 
+
+## Project Preview
 
 CONTENTS:
 ---------
