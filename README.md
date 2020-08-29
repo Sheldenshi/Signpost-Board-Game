@@ -6,10 +6,10 @@ This is a project that I completed for a UC Berkeley course CS61B: Data Structur
 
 ## Concepts: Object-Oriented Programming, State management
 
-## Project Preview
+## Project Preview:
 ![Preview](https://github.com/Sheldenshi/Signpost-Board-Game/blob/master/ss.png)
 
-##CONTENTS:
+## CONTENTS:
 ---------
 
 signpost/
